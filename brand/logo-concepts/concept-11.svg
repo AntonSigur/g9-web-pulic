@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="G9">
-  <!-- Notch: an open ring whose gap aims a forward chevron -->
-  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M74 67 A31 31 0 1 1 74 33" stroke-width="12"/>
-    <path d="M66 38 L86 50 L66 62" stroke-width="9"/>
-  </g>
-</svg>

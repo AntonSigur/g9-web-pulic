@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="G9">
-  <!-- Pivot: an abstract mark — a bold arc swinging around a fixed point -->
-  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M78 62 A31 31 0 1 1 58 22" stroke-width="12"/>
-  </g>
-  <circle cx="80" cy="38" r="9" fill="currentColor"/>
-</svg>
