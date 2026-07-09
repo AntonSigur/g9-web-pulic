@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="G9">
+  <!-- Ascent: a rising chevron stack — forward, upward momentum -->
+  <g fill="none" stroke="currentColor" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 76 L50 53 L76 76"/>
+    <path d="M30 60 L50 42 L70 60"/>
+    <path d="M37 46 L50 35 L63 46"/>
+  </g>
+  <circle cx="50" cy="24" r="6" fill="currentColor"/>
+</svg>

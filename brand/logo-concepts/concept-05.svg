@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="G9">
+  <!-- G-Force: a dial pinned near max, a nod to "9 G" -->
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24.5 77.5 A36 36 0 1 1 75.5 77.5" stroke-width="7"/>
+    <g stroke-width="5">
+      <path d="M22 52 L14 52"/>
+      <path d="M30.2 32.2 L24.5 26.5"/>
+      <path d="M50 24 L50 16"/>
+      <path d="M69.8 32.2 L75.5 26.5"/>
+    </g>
+    <path d="M50 52 L70 28" stroke-width="8"/>
+  </g>
+  <circle cx="50" cy="52" r="6" fill="currentColor"/>
+</svg>

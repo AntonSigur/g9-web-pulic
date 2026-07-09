@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="G9">
+  <!-- Forge: G and 9 fused into one glyph sharing a single bowl + stroke -->
+  <g fill="none" stroke="currentColor" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M71 66 A26 26 0 1 1 73 41"/>
+    <path d="M73 50 L52 50"/>
+    <path d="M71 66 L71 84"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="G9 — A little forward.">
+  <rect width="1200" height="630" fill="#fff4f6"/>
+  <!-- soft corner wash -->
+  <circle cx="1140" cy="70" r="320" fill="#ffe3ea"/>
+  <!-- The Thrust × G mark (ink), scaled ~3.1x from the 100x100 master -->
+  <g transform="translate(140 150)" fill="none" stroke="#3b1a26" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="scale(3.1)">
+      <g stroke-width="9">
+        <path d="M46.7 27 A19 19 0 1 0 46.7 57"/>
+        <path d="M54 42 L42 42"/>
+      </g>
+      <g stroke-width="9">
+        <circle cx="67" cy="38" r="12"/>
+        <path d="M78.6 40.9 L69 64"/>
+      </g>
+      <g stroke-width="5.25" stroke="#c42a5e">
+        <path d="M12 74 L78 74"/>
+        <path d="M10 84 L64 84"/>
+      </g>
+      <g stroke-width="7" stroke="#c42a5e">
+        <path d="M5 42 L11 42"/>
+      </g>
+    </g>
+  </g>
+  <text x="560" y="300" font-family="'Space Grotesk', system-ui, sans-serif" font-size="120" font-weight="700" fill="#3b1a26">G9</text>
+  <text x="562" y="380" font-family="'Space Grotesk', system-ui, sans-serif" font-size="56" font-weight="600" fill="#c42a5e">A little forward.</text>
+  <text x="564" y="438" font-family="system-ui, sans-serif" font-size="30" fill="#7a5563">A small brand by IT Ant.</text>
+</svg>

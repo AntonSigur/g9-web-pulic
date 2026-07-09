@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /preview
+
+Sitemap: https://g9.is/sitemap-index.xml
