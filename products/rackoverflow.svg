@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Rack Overflow logo">
+  <title>Rack Overflow</title>
+  <desc>A silicon die with pins; a bright up-arrow of stacked tiers merges upward and overflows through the top edge.</desc>
+
+  <defs>
+    <!-- kFLOPS (green, bottom) climbing to EFLOPS (cyan, top) -->
+    <linearGradient id="ro-climb" x1="32" y1="52" x2="32" y2="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#35E07E"/>
+      <stop offset="1" stop-color="#5CF0FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Favicon backdrop: near-black datacenter blue. Drop this rect to use the mark transparent. -->
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#0A0E17"/>
+
+  <g id="mark">
+    <!-- Pins: DIP-style ticks (large-size detail; safely disappears at favicon scale) -->
+    <g stroke="#2C9E68" stroke-width="2.5" stroke-linecap="round">
+      <line x1="7"  y1="25" x2="13" y2="25"/>
+      <line x1="7"  y1="34" x2="13" y2="34"/>
+      <line x1="7"  y1="43" x2="13" y2="43"/>
+      <line x1="51" y1="25" x2="57" y2="25"/>
+      <line x1="51" y1="34" x2="57" y2="34"/>
+      <line x1="51" y1="43" x2="57" y2="43"/>
+      <line x1="25" y1="53" x2="25" y2="59"/>
+      <line x1="32" y1="53" x2="32" y2="59"/>
+      <line x1="39" y1="53" x2="39" y2="59"/>
+    </g>
+
+    <!-- The die / package -->
+    <rect x="13" y="15" width="38" height="38" rx="6" fill="#0E1524" stroke="#35E07E" stroke-width="3"/>
+    <!-- Orientation notch dot -->
+    <circle cx="20" cy="22" r="2" fill="#35E07E"/>
+
+    <!-- Up-arrow: three merged tiers overflowing through the top edge -->
+    <g fill="url(#ro-climb)">
+      <!-- arrowhead breaks past the die's top edge = "overflow" -->
+      <path d="M32 7 L44 24 L20 24 Z"/>
+      <!-- stacked shaft: three tiers with hairline gaps -->
+      <rect x="27" y="25.5" width="10" height="6"   rx="1"/>
+      <rect x="27" y="33"   width="10" height="6"   rx="1"/>
+      <rect x="27" y="40.5" width="10" height="6.5" rx="1"/>
+    </g>
+  </g>
+</svg>
