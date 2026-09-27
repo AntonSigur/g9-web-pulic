@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" role="img" aria-labelledby="title">
+  <title id="title">PRynjar — Slipjoint, 16-pixel optical drawing</title>
+  <g fill="#628195">
+    <path id="upper-plate" d="M4.8 3.4L10.3 1.8C11.5 1.45 12.2 2 12.5 3.3L14 8.5C14.3 9.7 13.7 10.2 12.65 9.85L9.9 8.95C8.9 8.6 8.65 8 8.3 7.2C7.85 6.3 7.5 6.05 6.45 5.7L4.25 4.98C3.3 4.67 3.7 3.72 4.8 3.4Z"/>
+    <path id="lower-plate" d="M3.25 6.2L5.85 7.08C6.7 7.36 6.8 7.7 7.1 8.4C7.6 9.6 8.05 10.02 9.1 10.38L11.55 11.2C12.45 11.5 12.2 12.35 11.2 12.65L6 14.2C4.55 14.62 3.75 13.98 3.4 12.5L1.95 7.92C1.53 6.62 2.15 5.8 3.25 6.2Z"/>
+  </g>
+</svg>

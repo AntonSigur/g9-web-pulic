@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">PRynjar — Slipjoint</title>
+  <desc id="desc">Two oblique plates travelling past a clear changing seam. Display master.</desc>
+  <g id="slipjoint" fill="#628195" transform="translate(8 7) scale(.875)">
+    <path id="upper-plate" d="M35 22L88 7C97 4 103 8 106 18L120 70C122 80 117 85 107 82L82 74C71 71 69 66 65 58C61 50 56 47 47 44L30 39C23 37 23 25.4 35 22Z"/>
+    <path id="lower-plate" d="M23 53L43 60C52 63 53 67 56 75C60 85 65 89 75 92L99 100C105 102 102 108 95 110L49 123C36 127 28 121 25 109L12 69C9 58 13 50 23 53Z"/>
+  </g>
+</svg>

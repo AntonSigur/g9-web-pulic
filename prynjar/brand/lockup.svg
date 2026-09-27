@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="160" viewBox="0 0 596 160" role="img" aria-labelledby="title">
+<title id="title">PRynjar — horizontal signature</title>
+<g transform="translate(2 8) scale(1.15625)"><g xmlns="http://www.w3.org/2000/svg" fill="#2f5d77" transform="translate(8 7) scale(.875)">
+    <path d="M35 22L88 7C97 4 103 8 106 18L120 70C122 80 117 85 107 82L82 74C71 71 69 66 65 58C61 50 56 47 47 44L30 39C23 37 23 25.4 35 22Z" />
+    <path d="M23 53L43 60C52 63 53 67 56 75C60 85 65 89 75 92L99 100C105 102 102 108 95 110L49 123C36 127 28 121 25 109L12 69C9 58 13 50 23 53Z" />
+  </g>
+</g><g transform="translate(150 15) scale(1.0)"><g xmlns="http://www.w3.org/2000/svg" fill="#131a1f" fill-rule="evenodd" transform="translate(0 18)">
+    <path transform="translate(12)" d="M0 0H32C51 0 60 10 60 26C60 42 49 51 32 51H14V80H0ZM14 13V38H31C41 38 46 34 46 25.5C46 17 41 13 31 13Z" />
+    <path transform="translate(84)" d="M0 0H32C51 0 60 10 60 26C60 38 53 47 42 50L64 80H46L27 52H14V80H0ZM14 13V39H31C41 39 46 34 46 26C46 17 41 13 31 13Z" />
+    <path transform="translate(153)" d="M0 25H15L29 62L42 25H57L34 86C30 99 25 103 12 103H4V90H11C17 90 19 88 22 82Z" />
+    <path transform="translate(218)" d="M0 25H13V32C17 26 24 23 32 23C46 23 53 32 53 46V80H39V48C39 40 35 36 28 36C21 36 14 41 14 48V80H0Z" />
+    <path transform="translate(276)" d="M7 25H21V83C21 97 14 103 1 103H-5V90H0C5 90 7 88 7 82ZM7 6L21 2V15L7 19Z" />
+    <path transform="translate(311)" d="M24 23C34 23 40 27 43 34V25H56V80H42V74C38 80 30 82 23 82C7 82 0 70 0 53C0 35 9 23 24 23ZM28 36C19 36 14 43 14 53C14 64 19 69 28 69C38 69 43 62 43 53C43 43 38 36 28 36Z" />
+    <path transform="translate(377)" d="M0 25H13V36C17 28 24 24 34 24H39V38H33C20 38 14 46 14 58V80H0Z" />
+  </g>
+</g>
+</svg>
