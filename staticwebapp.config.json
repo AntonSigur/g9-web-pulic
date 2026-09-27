@@ -1,5 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/staticwebapp.config.json",
+  "routes": [
+    { "route": "/prynjar/measurements", "redirect": "/prynjar/", "statusCode": 301 },
+    { "route": "/prynjar/measurements/", "redirect": "/prynjar/", "statusCode": 301 },
+    { "route": "/prynjar/measurements/index.html", "redirect": "/prynjar/", "statusCode": 301 }
+  ],
   "navigationFallback": {
     "rewrite": "/404.html",
     "exclude": ["/assets/*", "/brand/*", "/fonts/*", "/css/*", "*.{svg,png,jpg,jpeg,webp,ico,woff2,css,js}"]
